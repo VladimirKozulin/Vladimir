@@ -25,7 +25,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## 📈 GitHub Stats
-[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Stremilov&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=VladimirKozulin&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🖼 Contacts
 [![Email](https://img.shields.io/badge/Email-lev.stremilov%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lev.stremilov@gmail.com)
