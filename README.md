@@ -29,5 +29,5 @@
 
 ## 🖼 Contacts
 [![Email](https://img.shields.io/badge/Email-lev.stremilov%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lev.stremilov@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%40stremilovv-blue?style=for-the-badge&logo=telegram)](https://t.me/stremilovv)
+[![Telegram](https://img.shields.io/badge/Telegram-%40stremilovv-blue?style=for-the-badge&logo=telegram)](https://t.me/overlord16)
 [![VK](https://img.shields.io/badge/VK-%40levstremilov-9cf?style=for-the-badge&logo=vk)](https://vk.com/levstremilov)
