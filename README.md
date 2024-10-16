@@ -17,6 +17,7 @@
 [![GitLab](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=while)](https://github.com/)
 [![GitHub](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Redis](https://img.shields.io/badge/Redis-f00?style=for-the-badge&logo=redis&logoColor=white)](https://forum.redis.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
