@@ -28,6 +28,6 @@
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=VladimirKozulin&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🖼 Contacts
-[![Email](https://img.shields.io/badge/Email-lev.stremilov%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lev.stremilov@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%40stremilovv-blue?style=for-the-badge&logo=telegram)](https://t.me/overlord16)
-[![VK](https://img.shields.io/badge/VK-%40levstremilov-9cf?style=for-the-badge&logo=vk)](https://vk.com/levstremilov)
+[![Email](https://img.shields.io/badge/Email-vladimir.kozulin.18%40yandex.ru-red?style=for-the-badge&logo=gmail)](mailto:vladimir.kozulin.18@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-%40vakover-blue?style=for-the-badge&logo=telegram)](https://t.me/vakover)
+[![VK](https://img.shields.io/badge/VK-%40overlord16-9cf?style=for-the-badge&logo=vk)](https://vk.com/overlord16)
