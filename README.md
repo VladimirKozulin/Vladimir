@@ -3,7 +3,7 @@
 ## 📌 About me
 - 🎓 22-year-old java backend developer
 - 🌱 Seeking new knowledge and experience
-- 💼 Currently working on personal projects and studying at university
+- 💼 Currently working on yandex and studying at college
 - 📫 Contact me: vladimir.kozulin.18@yandex.ru or @vakover
 
 ## 🖥 Technology Stack
@@ -34,6 +34,6 @@
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=VladimirKozulin&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🖼 Contacts
-[![Email](https://img.shields.io/badge/Email-vladimir.kozulin.18%40yandex.ru-red?style=for-the-badge&logo=gmail)](mailto:vladimir.kozulin.18@yandex.ru)
+[![Email](https://img.shields.io/badge/Email-vladimir.kozulin.18%40yandex.ru-red?style=for-the-badge&)](mailto:vladimir.kozulin.18@yandex.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-%40vakover-blue?style=for-the-badge&logo=telegram)](https://t.me/vakover)
 [![VK](https://img.shields.io/badge/VK-%40overlord16-9cf?style=for-the-badge&logo=vk)](https://vk.com/overlord16)
