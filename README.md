@@ -30,9 +30,6 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-## 📈 GitHub Stats
-[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=VladimirKozulin&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🖼 Contacts
 [![Email](https://img.shields.io/badge/Email-vladimir.kozulin.18%40yandex.ru-red?style=for-the-badge&)](mailto:vladimir.kozulin.18@yandex.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-%40vakover-blue?style=for-the-badge&logo=telegram)](https://t.me/vakover)
